@@ -12,7 +12,7 @@ Designed to fit;
 - 2x GA12-N20 motors
 - 1x small AT8236 DC motor controller
 
-The front portion has empty space to fit the ESP32 (+ motor controller among other small components), soldered and taped together. The lid is screwed to the body with 10x M3 screws. The motors are mounted to body with 4x M1.6 screws.
+The front portion has empty space to fit the ESP32 (+ motor controller among other small components), soldered and taped together. The lid is screwed to the body with 10x M3 screws. The motors are mounted to the body with 4x M1.6 screws.
 
 Unfortunately, I cannot provide code as I lost the files, however code is cheap to make nowadays with the assistance of AI.
 
